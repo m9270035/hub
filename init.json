@@ -1,3 +1,6 @@
 {
-  "init": "1"
+    "hub_base": "https://test-hub.terr.cc",
+    "hub_version": 1,
+    "hub_ube_min_version_code_android": 50001,
+    "hub_ube_min_version_code_ios": 50001 
 }
