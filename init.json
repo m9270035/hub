@@ -1,4 +1,10 @@
 {
-    "v": 1,
-    "direct": "https://terr.cc/init.json"
+  "api": "https://api.terr.cc",
+  "--------------hub--------------": "",
+  "hub_base": "https://hub.terr.cc/",
+  "hub_version": 1,
+  "hub_ube_base": "https://hub.terr.cc/ube/",
+  "hub_ube_min_version_code_android": 500011,
+  "hub_ube_min_version_code_ios": 500011,
+  "hub_ube_min_version_code_db": 2003
 }
