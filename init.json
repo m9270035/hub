@@ -8,7 +8,7 @@
   "hub_ube_min_version_code_android": 500017,
   "hub_ube_min_version_code_ios": 500016,
   "hub_ube_min_version_code_db": 2003,
-  "hub_ube_core_version": 25,
+  "hub_ube_core_version": 26,
   "--------------gogobid--------------": "",
   "hub_gogobid_base": "https://hub-us1.terr.cc/gogobid/",
   "hub_gogobid_min_version_code_android": 100000,
